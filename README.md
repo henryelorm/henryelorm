@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="260" src="https://miro.medium.com/v2/resize:fit:692/1*wwSHyk3f6huruTglVgl-Yw.gif">
 <p align="left">
 
-- 💬 Ask me about **Physics, Flutter, Django, and Machine learning**
-
 - 📫 How to reach me **henryquarshie.hq@gmail.com**
 
 - ⚡ Fun fact **I'm also a Pianist**
