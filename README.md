@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henry E. Quarshie</h1>
 <h3 align="center">Computational Physicist | Software Engineer</h3>
-<img align="right" alt="some image" width="100" src="https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif">
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:692/1*wwSHyk3f6huruTglVgl-Yw.gif">
 <p align="left">
 
-- 💬 Ask me about **Physics, Flutter, Django, Machine learning**
+- 💬 Ask me about **Physics, Flutter, Django, and Machine learning**
 
 - 📫 How to reach me **henryquarshie.hq@gmail.com**
 
